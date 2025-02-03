@@ -1,0 +1,36 @@
+[00:00:54.929] Program Started
+[00:00:56.137] Timer Started
+[00:02:18.384] Mouse jiggle bypassed, timeElapsed=34953, x=2228, y=240
+[00:03:47.294] Mouse Jiggled after no movement, timeElapsed=37734, x=2228, y=240
+[00:04:09.555] Mouse jiggle bypassed, timeElapsed=31, x=2221, y=324
+[00:04:56.139] Mouse jiggle bypassed, timeElapsed=40641, x=2227, y=79
+[00:05:56.250] Mouse Jiggled after no movement, timeElapsed=100641, x=2227, y=79
+[00:06:56.262] Mouse Jiggled after no movement, timeElapsed=59891, x=2231, y=79
+[00:07:56.259] Mouse Jiggled after no movement, timeElapsed=59875, x=2236, y=79
+[00:08:56.254] Mouse Jiggled after no movement, timeElapsed=9266, x=2242, y=79
+[00:09:56.277] Mouse Jiggled after no movement, timeElapsed=29750, x=2247, y=79
+[00:10:56.270] Mouse Jiggled after no movement, timeElapsed=59890, x=2252, y=79
+[00:11:56.298] Mouse Jiggled after no movement, timeElapsed=59922, x=2257, y=79
+[00:12:56.304] Mouse Jiggled after no movement, timeElapsed=59891, x=2262, y=79
+[00:13:56.303] Mouse Jiggled after no movement, timeElapsed=59906, x=2267, y=79
+[00:14:56.316] Mouse Jiggled after no movement, timeElapsed=59906, x=2272, y=79
+[00:15:56.322] Mouse Jiggled after no movement, timeElapsed=59890, x=2277, y=79
+[00:16:56.311] Mouse Jiggled after no movement, timeElapsed=59875, x=2283, y=79
+[00:17:56.326] Mouse Jiggled after no movement, timeElapsed=59890, x=2288, y=79
+[00:18:56.326] Mouse Jiggled after no movement, timeElapsed=59875, x=2293, y=79
+[00:19:56.324] Mouse Jiggled after no movement, timeElapsed=59875, x=2298, y=79
+[00:20:56.322] Mouse Jiggled after no movement, timeElapsed=59875, x=2303, y=79
+[00:21:56.323] Mouse Jiggled after no movement, timeElapsed=59890, x=2308, y=79
+[00:22:56.332] Mouse Jiggled after no movement, timeElapsed=59906, x=2313, y=79
+[00:23:56.334] Mouse Jiggled after no movement, timeElapsed=59891, x=2318, y=79
+[00:24:56.343] Mouse Jiggled after no movement, timeElapsed=59891, x=2323, y=79
+[00:25:56.343] Mouse Jiggled after no movement, timeElapsed=59875, x=2329, y=79
+[00:26:56.343] Mouse Jiggled after no movement, timeElapsed=59875, x=2334, y=79
+[00:27:56.316] Mouse Jiggled after no movement, timeElapsed=59875, x=2339, y=79
+[00:28:56.345] Mouse Jiggled after no movement, timeElapsed=59906, x=2344, y=79
+[00:29:56.337] Mouse Jiggled after no movement, timeElapsed=59875, x=2349, y=79
+[00:30:56.341] Mouse Jiggled after no movement, timeElapsed=59891, x=2354, y=79
+[00:31:56.322] Mouse Jiggled after no movement, timeElapsed=59875, x=2359, y=79
+[00:32:56.347] Mouse Jiggled after no movement, timeElapsed=59922, x=2364, y=79
+[00:33:56.370] Mouse Jiggled after no movement, timeElapsed=59891, x=2370, y=79
+[00:34:21.989] Program Terminated
